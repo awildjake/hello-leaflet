@@ -1,0 +1,1955 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing + Public Paseo",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "N/A",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "Reviewed August 2017",
+        "ZIP Code": "95126",
+        "Catalyze SV's Scorecard": "N/A",
+        "Next Public Meeting": "N/A",
+        "State": "CA",
+        "Project Name": "Page Street Studios",
+        "Project Website": "https://charitieshousing.org/page-street/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/page-street-studios",
+        "Address": "329 Page St., San Jose, CA 95126",
+        "Catalyze SV's Letter": "N/A",
+        "Phase": "Completed",
+        "Owner/Developer Name": "Charities Housing",
+        "Current Status With City": "Completed"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.915732,
+          37.322729
+        ],
+        "type": "Point"
+      },
+      "id": "04995d2dcff83c92cc845928015c65fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Office + Commercial ",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "November, 2022",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95110,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1srhr1osgTTlxmbQ7d64oR92ReD7OwLu4/view?usp=share_link",
+        "Next Public Meeting": "",
+        "State": "CA ",
+        "Project Name": "Diridon Plaza",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/diridon-plaza",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/diridon-plaza",
+        "Address": "33 S Montgomery St., San Jose, CA 95110",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1B6yjlrPj5b90LiYrF2jAyqaCU7i_GUnW/view?usp=share_link",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Caltrain",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.901736,
+          37.331657
+        ],
+        "type": "Point"
+      },
+      "id": "05f92a01e9c53d0b0faec98de12085f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Mixed-Use",
+        "Link to City Documents": "",
+        "place_name": "Mission Point",
+        "Date Presented to PAC": "August 2022",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95054,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/17TNjyHs3B1HqU30EdI5vy6tEsRr9HifF/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA ",
+        "Project Name": "Mission Point",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/mission-point",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/mission-point",
+        "Address": "4995 Patrick Henry Drive, Santa Clara, CA",
+        "accuracy": "",
+        "Catalyze SV's Letter": "",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Kylli ",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.982853,
+          37.401949
+        ],
+        "type": "Point"
+      },
+      "id": "07539d6be2546aa6200ca52d6f1e50d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Senior & Market-rate Housing + Urban Farm + Retail",
+        "Link to City Documents": "http://santaclaraca.gov/Home/Components/BusinessDirectory/BusinessDirectory/247/2495?alpha=A",
+        "Date Presented to PAC": "",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "Reviewed 2018",
+        "ZIP Code": "95050",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1JOpHfs0Zn66Yyy6VX7B9dutxG5aOswoA",
+        "Next Public Meeting": "TBD",
+        "State": "CA",
+        "Project Name": "Agrihood",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/agrihood",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/agrihood",
+        "Address": "1834 Worthington Cir., Santa Clara, CA 95050",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1XO7ar2ILc-5BO3_1m11VGz7tuKS0iQpE/view?usp=sharing",
+        "Phase": "Construction",
+        "Owner/Developer Name": "The Core Companies",
+        "Current Status With City": "Approved by City Council 1/2019"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.952,
+          37.3269
+        ],
+        "type": "Point"
+      },
+      "id": "14bcac475d50019afe5e15ee6d0e18fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Mixed-use Affordable Housing",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/department-directory/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/active-eirs/meridian-residential-project",
+        "Date Presented to PAC": "February, 2020",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "Reviewed 02/26/20",
+        "ZIP Code": 95126,
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=17GKmMVCUB0CNS5Wg7igDGFNFFprrJWpH",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Meridian Ave",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/meridian-ave",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/meridian-ave",
+        "Address": "971 Meridian Ave., San Jose, CA 95126",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=1lVGgy_azndiPUePy7VSF-Z7JUNMS6PIe",
+        "Phase": "Approved",
+        "Owner/Developer Name": "ROEM",
+        "Current Status With City": "Application Under Review"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.914289,
+          37.308772
+        ],
+        "type": "Point"
+      },
+      "id": "179dcfe441d2f036eb76b70919a4b2b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Housing + Retail + School",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/projects-of-high-interest/el-paseo-and-saratoga-ave-mixed-use-village",
+        "Date Presented to PAC": "October 2020",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Re-scored 03/24/2021",
+        "ZIP Code": 95130,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1sUQ5XV2L5Ui6bOrfEE7o7unvuIg1wTTy/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "El Paseo de Saratoga",
+        "Project Website": "https://www.elpaseotogether.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/el-paseo-de-saratoga",
+        "Address": "1550 El Paseo de Saratoga, San Jose, CA 95130",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1MlmL8tOZsdyF0us-2j5R4aBvCqZ5ZBXK/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Sand Hill Property Company",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.991878,
+          37.289382
+        ],
+        "type": "Point"
+      },
+      "id": "1e8d5c4515a6e0197e99390ed581cef8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing + Retail + Plaza",
+        "Link to City Documents": "https://www.santaclaraca.gov/Home/Components/News/News/43912/",
+        "place_name": "2655 The Alameda, Santa Clara, CA  95050",
+        "Date Presented to PAC": "April 2023",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "Approved",
+        "ZIP Code": 95050,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1GF_AYWS4A_Ll8DtlsVm9rzwIsRvA_0FD/view",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "2655 The Alameda",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/2655-the-alameda",
+        "Address": "2655 The Alameda, Santa Clara, CA 95050",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1g_OYv_wHOsk43LV_h99wQ53lPKcqwLj5/view",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Kapital Partners",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.937357,
+          37.346189
+        ],
+        "type": "Point"
+      },
+      "id": "21ebb9f7c8a6a4967f34af603898102d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "place_name": "",
+        "Date Presented to PAC": "March 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95124,
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "2628-2638 Union Ave",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/2628-2638-union-ave",
+        "Address": "2628 Union Ave, San Jose, CA 95124",
+        "accuracy": "",
+        "Catalyze SV's Letter": "",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Maracor Development ",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.933103,
+          37.2743
+        ],
+        "type": "Point"
+      },
+      "id": "2c7d4e4770a1ce7b00a0c1a7c78e62c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "100% Affordable Housing",
+        "Link to City Documents": "",
+        "place_name": "West Alma",
+        "Date Presented to PAC": "April 2024",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design",
+        "ZIP Code": 95125,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1C6mvPZnFRS9a2o1kGvnf0TxbTgCQ-m8l/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "West Alma",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/west-alma",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/west-alma",
+        "Address": "544 W Alma Ave, San Jose, CA 95125",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1QIGpam6AVkNEQJdaxy5uHaArMKKS3Fwz/view?usp=sharing",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Resources for Community Development",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.885722,
+          37.30917
+        ],
+        "type": "Point"
+      },
+      "id": "2f36ff799b2190acc33391eccf59fde7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Mixed-use Affordable Housing",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "April 2022",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95051,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1jBupS5yx0ulQwB64ep59bMLdljoLUngt/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "80 Saratoga",
+        "Project Website": "https://www.maracordev.com/projects",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/80-saratoga",
+        "Address": "80 Saratoga Avenue, Santa Clara, CA 95051",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1GaV0BR43oN1Wo6bS1PiAoQGMkMRYFlvo/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Maracor Development ",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.968707,
+          37.325268
+        ],
+        "type": "Point"
+      },
+      "id": "356a02a13a686c7b8c5252220abd874e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing + Active Ground Floor",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "N/A",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed in 2018",
+        "ZIP Code": "95126",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1L6jlTWaBt4ch2ePojcOHvLgWxJF3shXd/view?usp=sharing",
+        "Next Public Meeting": "TBD",
+        "State": "CA",
+        "Project Name": "253 Race Street",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/253-race-street",
+        "Address": "253 Race St., San Jose, CA 95126",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=11ZVCB6jXnBR1Yvk-jo1cf5kCGDEOkBVs",
+        "Phase": "Construction",
+        "Owner/Developer Name": "The Core Companies / Santa Clara County Housing Authority",
+        "Current Status With City": "Approved at Planning Directors Hearing, 8/19/2020"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.911762,
+          37.324938
+        ],
+        "type": "Point"
+      },
+      "id": "35e5798437b7bd67561ed5d59449bd38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "February 2022",
+        "City": "Fremont",
+        "Current Status in Catalyze SV": "Approved",
+        "ZIP Code": "February 2022",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1WeC-QX8csM7hv_Fzvp_EIHS6G9u4q-Mk/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA ",
+        "Project Name": "3900 Thornton",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/3900-thornton",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/3900-thornton",
+        "Address": "3900 Thornton Avenue, Fremont, CA 94536 ",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1ARL3WvIPK0pm2dOJNYOdMuPmxo3gn7AJ/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Resources for Community Development",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.010508,
+          37.560902
+        ],
+        "type": "Point"
+      },
+      "id": "3e93b5d6bb00266a26fa010c5609c443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing + Retail",
+        "Link to City Documents": "https://www.santaclaraca.gov/Home/Components/BusinessDirectory/BusinessDirectory/243/2495",
+        "Date Presented to PAC": "N/A",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "Reviewed June 2017",
+        "ZIP Code": "95050",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1hBUbXVLoAH_eb-y_XB-4_kahw8H-18tr",
+        "Next Public Meeting": "N/A",
+        "State": "CA",
+        "Project Name": "575 Benton Street",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/575-benton-street",
+        "Address": "575 Benton St., Santa Clara, CA 95050",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/16uBul5DMkzpPwyQGyncHIbBFEPDHjb_u/view",
+        "Phase": "Completed",
+        "Owner/Developer Name": "Prometheus",
+        "Current Status With City": "Under Construction"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.939503,
+          37.353043
+        ],
+        "type": "Point"
+      },
+      "id": "4059acdf8257c92bd8f285d8c90a6906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Assisted Living ",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "July 2022",
+        "City": "Santa Clara ",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": "",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "275 Saratoga",
+        "Project Website": "https://www.santaclaraca.gov/Home/Components/BusinessDirectory/BusinessDirectory/429/2495?npage=2",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/275-saratoga",
+        "Address": "275 Saratoga Avenue, Santa Clara, CA 95050",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1XEd8nFr4hdqjOxKy0g6Mj5kuY1Dbebu9/view?usp=sharing",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Swenson Builders",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.964009,
+          37.329592
+        ],
+        "type": "Point"
+      },
+      "id": "41842b668c655c06d383cef27990a64e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Office + Retail + Market-rate Housing + Affordable Housing",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/active-eirs/4300-stevens-creek-blvd-mixed-use-project",
+        "Date Presented to PAC": "April 2018",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed April 2018",
+        "ZIP Code": "95129",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1e8rrzSgZjcLp0oMoP__HaFZErS8tz_JD",
+        "Next Public Meeting": "N/A",
+        "State": "CA ",
+        "Project Name": "Stevens Creek Promenade",
+        "Project Website": "http://stevenscreekpromenade.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/stevens-creek-promenade",
+        "Address": "4300 Stevens Creek Blvd., San Jose, CA 95129",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1oby36UJEzvFvyIkExWXMQOt7cU8GaIFg/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Fortbay",
+        "Current Status With City": "Approved by City Council"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.97911,
+          37.322831
+        ],
+        "type": "Point"
+      },
+      "id": "495a47912ee3b86d254d53462ecc19f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Housing + Commercial",
+        "Link to City Documents": "",
+        "place_name": "",
+        "Date Presented to PAC": "",
+        "City": "",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "",
+        "Project Name": "1520 West San Carlos Street",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1520-west-san-carlos-street",
+        "Address": "1520 W San Carlos St., San Jose, CA 95126",
+        "accuracy": "",
+        "Catalyze SV's Letter": "",
+        "Phase": "In Design",
+        "Owner/Developer Name": "MV3 LLC",
+        "Current Status With City": "`"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.917582,
+          37.322869
+        ],
+        "type": "Point"
+      },
+      "id": "502c149d2a8aa2834a010d1bc8413e15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Master Plan for Housing + Office + Retail",
+        "Link to City Documents": "",
+        "place_name": "675 East Santa Clara",
+        "Date Presented to PAC": "November, 2020",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 11/18/2020",
+        "ZIP Code": "95112",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/13B-qtNX76VPBo3FspsYAO-ArtSXk9V8t/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "675 East Santa Clara",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/675-east-santa-clara",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/675-east-santa-clara",
+        "Address": "675 East Santa Clara St., San Jose, CA 95112 ",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/12oZhu6my2VM2NMJr7_aJIx1jECFZ-CF4/view?usp=sharing",
+        "Phase": "In Review",
+        "Owner/Developer Name": "Santa Clara Housing Authority",
+        "Current Status With City": "Developer Designing"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.877404,
+          37.343352
+        ],
+        "type": "Point"
+      },
+      "id": "553e3120a9a7c334fbcc00c9a20af271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": "95126",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1La6XhntTjF6osHhaw2kdp-1lfSnPSqlD",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "McEvoy & Dupont Apartments",
+        "Project Website": "https://www.firstcommunityhousing.org/mcevoy-apartments",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/mcevoy-%26-dupont-apartments",
+        "Address": "699 West San Carlos St., San Jose, CA  95126",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=1eT1wwjRBEULHj_7Axt5tkHtTEtE8lWtu",
+        "Phase": "Approved",
+        "Owner/Developer Name": "First Community Housing",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.903913,
+          37.324403
+        ],
+        "type": "Point"
+      },
+      "id": "55592228a56112819174c0b0b01c34cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing + Office",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/pending/gateway-station-dick-s-center-project",
+        "Date Presented to PAC": "March, 2019",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed on 3/27/19",
+        "ZIP Code": "95128",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1vHEcRfLq4Ru04EJJOXGcUIcp2SK9FV2R",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Bascom Station",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/bascom-station",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/bascom-station",
+        "Address": "1330 South Bascom Ave., San Jose, CA 95128",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=1vebfk-iQon18M5RYkhNkL9dZGgBlL3tM",
+        "Phase": "Construction",
+        "Owner/Developer Name": "Bay West Development",
+        "Current Status With City": "Approved by City Council"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.931,
+          37.30078
+        ],
+        "type": "Point"
+      },
+      "id": "56a6b4879f3fb0301cd3a3cc686d79e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Supportive & Affordable Housing + Commercial",
+        "Link to City Documents": "",
+        "place_name": "",
+        "Date Presented to PAC": "December, 2020",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 12/09/2020",
+        "ZIP Code": 95116,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/122LAnyEs4fsnqlzL54FpuVG4Vs8y2ue_/view?usp=sharing",
+        "Next Public Meeting": "TBD",
+        "State": "CA",
+        "Project Name": "The Village at Roosevelt",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/the-village-at-roosevelt",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/the-village-at-roosevelt",
+        "Address": "995 East Santa Clara St., San Jose, CA 95116",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1d5gyYq8f68qkwo8PigmMSRWe8UuPD9wP/view?usp=sharing",
+        "Phase": "Construction",
+        "Owner/Developer Name": "Frist Community Housing",
+        "Current Status With City": "Construction"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.87102,
+          37.345783
+        ],
+        "type": "Point"
+      },
+      "id": "5abf22367431d14c95ab38cf9c50e9ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/negative-declaration-initial-studies/1271-1279-east-julian-gpa-gp21-006",
+        "place_name": "1271-1279 East Julian Street",
+        "Date Presented to PAC": "July 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95116,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1f1wFwFuV5Fq6g6ZmxBX74R-3Wjug6SyD/view?usp=drive_link",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "1271-1279 East Julian Street",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1271-1279-east-julian-street",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1271-1279-east-julian-street",
+        "Address": "1271 East Julian Street, San Jose CA 95116",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/103P_k66RpCa2OvqaVTtkJFKOszjaGhe1/view?usp=drive_link",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Yi First Seed LLC",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.86944,
+          37.352534
+        ],
+        "type": "Point"
+      },
+      "id": "5bb47e2f5cfc1d4b5d7838fd9e86e095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable housing",
+        "Link to City Documents": "",
+        "place_name": "Berryessa Transit Center",
+        "Date Presented to PAC": "December, 2022",
+        "City": "San Jose",
+        "ZIP Code": "95133",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1QkkNQj8GGayrER9kMQo66bBVr75p2PNR/view?usp=share_link",
+        "State": "CA",
+        "Project Name": "Berryessa-North San Jose Transit Center",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/berryessa-north-san-jose-transit-center",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/berryessa-north-san-jose-transit-center",
+        "Address": "1620 Berryessa Road, San Jose, CA",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1uiIAAl8zjlXeKiQ3sDWEqmyJMifyzLSp/view?usp=share_link",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Affirmed Housing ",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.872367,
+          37.365479
+        ],
+        "type": "Point"
+      },
+      "id": "5d76a7e15074069be0465c3373cd3f30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Mixed-Use",
+        "Link to City Documents": "",
+        "place_name": "Castro Commons",
+        "Date Presented to PAC": "August 2023",
+        "City": "Mountain View",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 94041,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1e2W8js96glxGrisF_1Qxa3lMcmP--oZN/view?usp=drive_link",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Castro Commons",
+        "Project Website": "https://gprventurescastro.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/castro-commons",
+        "Address": "843 Castro St, Mountain View, CA 94041",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/14oQfjZwLnfjFQ7q9dpN9cQwnwOwVoaTG/view?usp=drive_link",
+        "Phase": "In Design",
+        "Owner/Developer Name": "GPR Ventures",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.083119,
+          37.386633
+        ],
+        "type": "Point"
+      },
+      "id": "605d4030be83a2ba3102431f779e4b09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Senior Housing + Commercial",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/projects-of-high-interest/pending/397-blossom-hill-road",
+        "Date Presented to PAC": "2018",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 2018",
+        "ZIP Code": "95123",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1smQCbRjtfEZZ9zlQOb9XZatbVWfBZF7Y",
+        "Next Public Meeting": "Planning Commission, December 11; City Council TBD",
+        "State": "CA",
+        "Project Name": "Blossom Hill",
+        "Project Website": "https://charitieshousing.org/blossom-hill/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/blossom-hill",
+        "Address": "397 Blossom Hill Rd., San Jose, CA 95123",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=1YCPa4stm4vwg4j2XNiFGtbjjPhxSyss_",
+        "Phase": "Construction",
+        "Owner/Developer Name": "Charities Housing",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.828,
+          37.25215
+        ],
+        "type": "Point"
+      },
+      "id": "6248b097a917ef0b8667991561546b08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing + Commercial",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "August, 2019",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed on 8/28/19",
+        "ZIP Code": "95126",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1PsmzAAnPKnD-Pc4W6aHga9nKHTJjFxPD",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "1301 West San Carlos Street",
+        "Project Website": "https://www.catalyzesiliconvalley.org/project-1301-west-san-carlos-street",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1301-west-san-carlos-street",
+        "Address": "1301 W San Carlos St., San Jose, CA 95126",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=15mjo4TVlacLIvU8AdV3pytMxUhiQmeeN",
+        "Phase": "Withdrawn",
+        "Owner/Developer Name": "The Core Companies",
+        "Current Status With City": "Environmental Review"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.912,
+          37.32394
+        ],
+        "type": "Point"
+      },
+      "id": "65e45998e3ae139f65a5cb83496c3c82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Housing + Commercial + Park",
+        "Link to City Documents": "https://www.santaclaraca.gov/Home/Components/BusinessDirectory/BusinessDirectory/297/2495",
+        "place_name": "",
+        "Date Presented to PAC": "March, 2021",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "Reviewed 03/24/21",
+        "ZIP Code": 95054,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1g0qHN185KZWp0qXcb96iVtJ9_BmRK03V/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Freedom Circle",
+        "Project Website": "https://courbanize.com/projects/3090sbascom/information",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/freedom-circle",
+        "Address": "3905 Freedom Circle, Santa Clara, CA 95054",
+        "accuracy": "Strangis Properties",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1Nfkb4cAzfLLgB3hoONogY0sTs4msmq5u/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Greystar",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.969664,
+          37.385709
+        ],
+        "type": "Point"
+      },
+      "id": "66b3ac2e9eb699b8cc4b177b38f9e13e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Master Plan for Housing + Office + Retail",
+        "Link to City Documents": "",
+        "place_name": "",
+        "Date Presented to PAC": "April, 2019",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "Reviewed 4/24/19, Waiting for Specific Project Proposals",
+        "ZIP Code": "95112",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "East Santa Clara St. Master Plan",
+        "Project Website": "https://www.catalyzesiliconvalley.org/project-east-santa-clara-street-master-plan",
+        "Website Page": "https://www.catalyzesiliconvalley.org/project-east-santa-clara-street-master-plan",
+        "Address": "12 Acre Site Along Santa Clara St. btwn 14th & 17th st",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1rOcTsFk0bK12iqCYjADK17KAk0qyRcWR/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Santa Clara County / Housing Authority",
+        "Current Status With City": "Master Plan Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.87537,
+          37.344403
+        ],
+        "type": "Point"
+      },
+      "id": "793fdf3f9a89c6415473d76360717826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "380 North First Street",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/active-eirs/380-north-first-street-residential-project",
+        "place_name": "380 North First Street",
+        "Date Presented to PAC": "September 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95112,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1_b4B59dN1gQdT1-MmL9gNz8PgmfCkVH8/view?usp=drive_link",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "380 North First Street",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/380-north-first-street",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/380-north-first-street",
+        "Address": "380 N First St, San Jose, CA 95112",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1HIzzCTyNCD1M5gpw8t7v7DSHVfEziivb/view?usp=drive_link",
+        "Phase": "In Design",
+        "Owner/Developer Name": "MSASA Properties LLC",
+        "Current Status With City": "Environmental Review"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.894493,
+          37.341943
+        ],
+        "type": "Point"
+      },
+      "id": "7d06d5bf43518d47b458fa1463e8a909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/pending/cambrian-park-plaza-signature-project",
+        "place_name": "Housing + Commercial + Hotel + Park + Assisted Living",
+        "Date Presented to PAC": "February, 2021",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 02/24/2021",
+        "ZIP Code": 95124,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1S0hxpcnt4i_a1K79EcLo08kdMOkKCs_3/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Cambrian Park Village",
+        "Project Website": "http://cambrianparkplazashoppingcenter.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/cambrian-park-village",
+        "Address": "14200 & 14420 Union Avenue, San Jose, CA 95124",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1AGMY8XQO7CjY2Kzt1tie0wFMwt78c1cw/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Weingarten Realty Investors",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.930055,
+          37.260023
+        ],
+        "type": "Point"
+      },
+      "id": "8884fb78e8f1d7076510b5c32dd5027d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "",
+        "Link to City Documents": "",
+        "place_name": "19 North Second Street, San Jose, California, 95113",
+        "Date Presented to PAC": "",
+        "City": "",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": 95113,
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "",
+        "Project Name": "19 North Second Street",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/19-north-second-street",
+        "Address": "19 N Second St., San Jose, CA 95113",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Roygbiv Real Estate Development LLC",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.889994,
+          37.336958
+        ],
+        "type": "Point"
+      },
+      "id": "8f42836b223271791e01ff60cdd12aa1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate, Affordable + Special Needs Housing",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/department-directory/planning-building-code-enforcement/planning-division/projects-of-high-interest/kelsey-ayer-station",
+        "Date Presented to PAC": "May 2019",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 5/22/19",
+        "ZIP Code": "95112",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1kDLk_7FNQWbZcRwaY62fW7ZESQrre1fQ",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Ayer Station",
+        "Project Website": "https://www.catalyzesiliconvalley.org/project-ayer-station",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/ayer-station",
+        "Address": "447 N 1st St., San Jose, CA 95112",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=1lSyDH21uzT0vw5APc_Sj6zRKyHC-Jf3x",
+        "Phase": "Completed",
+        "Owner/Developer Name": "The Kelsey",
+        "Current Status With City": "Approved by City Council"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.896,
+          37.34333
+        ],
+        "type": "Point"
+      },
+      "id": "95c6c3f72dc7e63d7113c65af872c950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Builder's Remedy",
+        "Link to City Documents": "",
+        "place_name": "940 Willow Street",
+        "minzoom": "",
+        "Date Presented to PAC": "",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "CA ",
+        "Project Name": "940 Willow Street",
+        "Project Website": "",
+        "Website Page": "",
+        "Address": "940 Willow St, San Jose, CA 95125",
+        "maxzoom": "",
+        "accuracy": "",
+        "Catalyze SV's Letter": "",
+        "Phase": "",
+        "Owner/Developer Name": "",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.897737,
+          37.309764
+        ],
+        "type": "Point"
+      },
+      "id": "9623abde713d96b1c4076ef5b0fbb21e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing + Daycare",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "June, 2020",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "Reviewed 06/24/20",
+        "ZIP Code": 95126,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/12eWdI63hm7AHMWsKC89wr83Mde0zwFf5/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "777 West San Carlos",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/777-west-san-carlos",
+        "Address": "777 W San Carlos St., San Jose, CA 95126 ",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1zF2phwOqmTn88xzT_IuilpzAApeF6q1x/view?usp=sharing",
+        "Phase": "Construction",
+        "Owner/Developer Name": "Danco Communities",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.90556,
+          37.324235
+        ],
+        "type": "Point"
+      },
+      "id": "9aeff1bad36fcb36e9bad94c1c3507d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Housing + Office + Retail + Hotel + Public Space",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/projects-of-high-interest/google-project",
+        "Date Presented to PAC": "October, 2020",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Re-scored on 05/04/2021",
+        "ZIP Code": "95110",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/10a0ZvGQO4cfVE5ZmF5bOy293GaObrJTl/view?usp=sharing",
+        "Next Public Meeting": "City Council Meeting on 05/04/2021",
+        "State": "CA",
+        "Project Name": "Downtown West",
+        "Project Website": "https://realestate.withgoogle.com/sanjose/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/downtown-west",
+        "Address": "East of Diridon Station, San Jose, CA 95110",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1-aAN5wksrrafqL8d5Z6mW8s28iqr8fpb/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Google",
+        "Current Status With City": "Endorsed by Planning Commission"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.901,
+          37.33036
+        ],
+        "type": "Point"
+      },
+      "id": "a154123ad342911defc084ef3a1eb896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing + Flex Space",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "September, 2019",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed on 9/25/19",
+        "ZIP Code": "95128",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1fWehTJ6RsYuZ-KDBZJZBKkpdfTI17br4/view?usp=sharing",
+        "Next Public Meeting": "TBD",
+        "State": "CA",
+        "Project Name": "1710 Moorpark Ave",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1710-moorpark-ave",
+        "Address": "1710 Moorpark Ave., San Jose, CA 95128",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1HOMQ7oI5QzagO_Nn-5JjBUTMLNSsD1gW/view",
+        "Phase": "Completed",
+        "Owner/Developer Name": "MidPen Housing (Immanuel Lutheran Church)",
+        "Current Status With City": "Approved through SB 35 Streamlining"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.923,
+          37.31587
+        ],
+        "type": "Point"
+      },
+      "id": "a3a93ab71a1257acb2a07d5a90c629bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "place_name": "Camden Place",
+        "Date Presented to PAC": "June 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95124,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1FxdPfMbheN55ttD2bs4-mTH3Qljl-Ovv/view?usp=drive_link",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Camden Place",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/camden-place",
+        "Address": "1999 Camden Avenue and 3590 Union Avenue,  San Jose, CA 95124",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1SKDu0_svfymRQdAyXOHbKP3nePMeyoDq/view?usp=drive_link",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Abode Communities",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.93115,
+          37.262011
+        ],
+        "type": "Point"
+      },
+      "id": "a9a9e5a6d595c6b9e653dc1f935a9d1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Senior Residential",
+        "Link to City Documents": "",
+        "place_name": "Almaden Apartments",
+        "Date Presented to PAC": "January, 2022",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": "Reviewed January 26,2022",
+        "Catalyze SV's Scorecard": "https://drive.google.com/drive/folders/15R4KNFfGIcUyIDXQAoOKxAft-TNXYkwK",
+        "Next Public Meeting": "March 2022",
+        "State": "",
+        "Project Name": "Almaden Apartments",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/almaden-apartments",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/almaden-apartments",
+        "Address": "2080 Almaden Road, San Jose, CA 95125",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "https://drive.google.com/drive/folders/1-DVehsXt2cbB4A_fbPzo7CrXNPPUpLA8",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Affirmed Housing ",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.879918,
+          37.297084
+        ],
+        "type": "Point"
+      },
+      "id": "ad062f4365f881936f59a29db27ce802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Residential + Commercial",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/active-eirs/0-seely-ave-mixed-use-project",
+        "Date Presented to PAC": "March 2022",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed March 2022",
+        "ZIP Code": 95131,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/19Sq_i3Pwq2Kv6EB2xXU7suaQi8dFbsBV/view?usp=sharing",
+        "Next Public Meeting": "June 2022",
+        "State": "CA",
+        "Project Name": "Seely-Montague",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/seely-montague",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/seely-montague",
+        "Address": "681 E Trimble Rd., San Jose, CA 95131",
+        "accuracy": "Hanover Co",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/19Sq_i3Pwq2Kv6EB2xXU7suaQi8dFbsBV/view?usp=sharing",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Hanover Co",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.91695,
+          37.39661
+        ],
+        "type": "Point"
+      },
+      "id": "address.1052345191225956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "https://www.santaclaraca.gov/Home/Components/BusinessDirectory/BusinessDirectory/420/2571?alpha=NonAlpha",
+        "Date Presented to PAC": "June 2022",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "Reviewed June 2022",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/12-Q0Jtrxl3svjLqmiYRPy8fIG1_k_g7z/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA ",
+        "Project Name": "Civic Center Family Housing",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/civic-center-family-housing",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/civic-center-family-housing",
+        "Address": "1601 Civic Center Drive, Santa Clara, CA 95050",
+        "accuracy": "https://drive.google.com/file/d/1iXCizLwbLM9ep0It_jKYLEtGyyMENTmU/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Charities Housing",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.956015,
+          37.353855
+        ],
+        "type": "Point"
+      },
+      "id": "address.1247817208991756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Supportive & Affordable Housing + Commercial",
+        "Link to City Documents": "3090 South Bascom Avenue, San Jose, California 95124, United States",
+        "place_name": "3090 South Bascom Avenue, San Jose, California 95124, United States",
+        "Date Presented to PAC": "August, 2020",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 07/22/20",
+        "ZIP Code": 95124,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1BGc8Yf1gWDmCJO3Dm8ruKdI6NqyHFSzY/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA ",
+        "Project Name": "3090 South Bascom",
+        "Project Website": "https://courbanize.com/projects/3090sbascom/information",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/3090-south-bascom",
+        "Address": "3090 S Bascom Ave., San Jose, CA 95124",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1Rn9vwZZomEgSgFUoP__Ee0Rw1Nwh02sF/view?usp=sharing",
+        "Phase": "Completed",
+        "Owner/Developer Name": "Affirmed Housing",
+        "Current Status With City": "Developer is seeking streamlined ministerial approval through AB 2162"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.939706,
+          37.26697
+        ],
+        "type": "Point"
+      },
+      "id": "address.289912610684732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "",
+        "Link to City Documents": "",
+        "place_name": "3550 El Camino Real, Santa Clara, California 95051, United States",
+        "Date Presented to PAC": "",
+        "City": "",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "",
+        "Project Name": "Clara Gardens",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/clara-gardens",
+        "Address": "3550 El Camino Real, Santa Clara, CA 95051",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Resources for Community Development",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.993954,
+          37.351971
+        ],
+        "type": "Point"
+      },
+      "id": "address.5129754463279326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "",
+        "Link to City Documents": "",
+        "place_name": "605 South 2nd Street, San Jose, California 95112, United States",
+        "Date Presented to PAC": "",
+        "City": "",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "",
+        "Project Name": "605 South Second Street",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/605-south-second-street",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/605-south-second-street",
+        "Address": "605 S Second St., San Jose, CA 95112",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Roygbiv Real Estate Development LLC",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.882862,
+          37.327189
+        ],
+        "type": "Point"
+      },
+      "id": "address.5890304443629762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market Rate + Commercial",
+        "place_name": "60 Stockton Avenue, San Jose, California 95126, United States",
+        "Date Presented to PAC": "December, 2021",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 12/08/2021",
+        "ZIP Code": 95126,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1_Go02KIYSvFzOKDAkRvFt9Pz2HkF5u-O/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Apollo Tower",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/apollo-tower",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/apollo-tower",
+        "Address": "60 Stockton Ave., San Jose, CA 95126",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1WPoWgt_PMZheDEcl5Fs2aO8vR44l8ZZj/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Urban Catalyst",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.903854,
+          37.33259
+        ],
+        "type": "Point"
+      },
+      "id": "address.6757142165636272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate & Affordable Housing + Commercial",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "April, 2020",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed by Catalyze SV and the Alum Rock Urban Village Advocates on 4/3/2020",
+        "ZIP Code": 95116,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1h28SabVFhBil7YKb4U_k6-lMtoAAPJXA/view?usp=sharing",
+        "Next Public Meeting": "TBD",
+        "State": "CA ",
+        "Project Name": "2070 Alum Rock",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/2070-alum-rock",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/2070-alum-rock",
+        "Address": "2070 Alum Rock Ave., San Jose, CA 95116",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=1Y4rvhlXRwjUYdWp1K2ssCIkN6LMkQu6o",
+        "Phase": "Withdrawn",
+        "Owner/Developer Name": "RCPM Consultants",
+        "Current Status With City": "Withdrawn"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.847691,
+          37.355958
+        ],
+        "type": "Point"
+      },
+      "id": "address.7974798200802988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "place_name": "1371 Kooser",
+        "Date Presented to PAC": "October 2022",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": 95118,
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "December 2022",
+        "State": "",
+        "Project Name": "1371 Kooser",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1371-kooser",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1371-kooser",
+        "Address": "1371 Kooser Road, San Jose, CA 95118",
+        "accuracy": "Parcel",
+        "Catalyze SV's Letter": "",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Affirmed Housing",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.888755,
+          37.24656
+        ],
+        "type": "Point"
+      },
+      "id": "address.8237354117391870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "70 North 27th Street",
+        "Date Presented to PAC": "January 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95116,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/132rGwWkHmGs65TlbennMUkMeB_qG5nI2/view?usp=share_link",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "70 North 27th Street",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/70-north-27th-street",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/70-north-27th-street",
+        "Address": "70 North 27th Street, San Jose, CA 95116",
+        "accuracy": "parcel",
+        "Phase": "In Design",
+        "Owner/Developer Name": "HC Investment Associates"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.86583,
+          37.349679
+        ],
+        "type": "Point"
+      },
+      "id": "address.8246069091577966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "place_name": "501 S Almaden Avenue",
+        "Date Presented to PAC": "October 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "",
+        "Project Name": "501 S Almaden Avenue",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/501-s-almaden-avenue",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/501-s-almaden-avenue",
+        "Address": "501 S Almaden Ave, San Jose, CA 95110",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "",
+        "Phase": "In Design",
+        "Owner/Developer Name": "Satellite Affordable Housing Associates (SAHA)",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.888463,
+          37.326994
+        ],
+        "type": "Point"
+      },
+      "id": "aea64de8a5fee2e2a863bb8f428eefe4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market Rate & Affordable Housing + Retail",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/active-eirs/blossom-hill-station-mixed-use-project",
+        "place_name": "",
+        "Date Presented to PAC": "August, 2020",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "Reviewed 08/26/2020",
+        "ZIP Code": 95123,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/14q8pyUPuX4AEnJYh3z69AixLMgxRFVH-/view?usp=sharing",
+        "Next Public Meeting": "10/13/2020",
+        "State": "CA",
+        "Project Name": "Republic @ Blossom Hill",
+        "Project Website": "https://republicatblossomhill.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/republic-%40-blossom-hill",
+        "Address": "605 Blossom Hill Rd., San Jose, CA 95123",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1xP1uu-z2Az6imhIBrDzAnWZAJackt6uW/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Green Republic",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.840823,
+          37.251543
+        ],
+        "type": "Point"
+      },
+      "id": "b006da4898883659410cafec80801a61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable + Youth Center",
+        "Link to City Documents": "",
+        "place_name": "Parkmoor (Hub), San Jose, California 95126",
+        "Date Presented to PAC": "",
+        "City": "",
+        "Current Status in Catalyze SV": "Approved",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "",
+        "Project Name": "Parkmoor (Hub)",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/parkmoor-(hub)",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/parkmoor-(hub)",
+        "Address": "1510-1540 Parkmoor Ave., San Jose, CA  95126",
+        "accuracy": "Parcel",
+        "Catalyze SV's Letter": "",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Santa Clara County Office of Supportive Housing/ Allied Housing",
+        "Current Status With City": "Approved"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.915383,
+          37.316342
+        ],
+        "type": "Point"
+      },
+      "id": "b5c47e84897921e43db71af3fd167833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing",
+        "Link to City Documents": "",
+        "minzoom": 0,
+        "Date Presented to PAC": "N/A",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "Reviewed February 2024",
+        "ZIP Code": 95128,
+        "Catalyze SV's Scorecard": "N/A",
+        "Next Public Meeting": "N/A",
+        "State": "CA",
+        "Project Name": "826 N Winchester Blvd",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/826-n-winchester-blvd",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/826-n-winchester-blvd",
+        "Address": "826 N Winchester Blvd, San Jose, CA 95128",
+        "maxzoom": 22,
+        "Catalyze SV's Letter": "N/A",
+        "Phase": "In Design",
+        "Owner/Developer Name": "VCI Companies",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.949959,
+          37.330494
+        ],
+        "type": "Point"
+      },
+      "id": "b94bb02109764216cbb39d4d25ac5d5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "March 2024",
+        "City": "Fremont",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1WeC-QX8csM7hv_Fzvp_EIHS6G9u4q-Mk/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA ",
+        "Project Name": "Osgood Road",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/osgood-road",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/osgood-road",
+        "Address": "42021 Osgood Rd, Fremont, CA 94539",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1ARL3WvIPK0pm2dOJNYOdMuPmxo3gn7AJ/view?usp=sharing",
+        "Phase": "In Design",
+        "Owner/Developer Name": "MidPen Housing",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.951954,
+          37.528519
+        ],
+        "type": "Point"
+      },
+      "id": "c02a5667e0ef5dd9234780d1799ea68e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing",
+        "Link to City Documents": "",
+        "place_name": "VTA Capitol Station",
+        "Date Presented to PAC": "November 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 11/15/2023",
+        "ZIP Code": 95136,
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Capitol Station TOD",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/capitol-station-tod",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/capitol-station-tod",
+        "Address": "VTA Capitol Station",
+        "accuracy": "",
+        "Catalyze SV's Letter": "",
+        "Phase": "In Design",
+        "Owner/Developer Name": "MidPen Housing",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.86167,
+          37.273329
+        ],
+        "type": "Point"
+      },
+      "id": "c38099476d7f9696c1cb045d7e018a93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing + Active Ground Floor",
+        "Link to City Documents": "",
+        "place_name": "1921 W San Carlos Street, San Jose, 95128",
+        "Date Presented to PAC": "",
+        "City": "",
+        "Current Status in Catalyze SV": "",
+        "ZIP Code": "",
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "",
+        "State": "",
+        "Project Name": "Villas on the Row",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/villas-on-the-row",
+        "Address": "1921 W San Carlos Street, San Jose, CA 95128",
+        "accuracy": "parcel",
+        "Catalyze SV's Letter": "",
+        "Phase": "In Design",
+        "Owner/Developer Name": "PATH Ventures",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.929495,
+          37.323658
+        ],
+        "type": "Point"
+      },
+      "id": "c9ee2f4ef54dd4a9292b84b93c45514a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Housing + Market Rate Housing + Commercial",
+        "Link to City Documents": "",
+        "place_name": "",
+        "Date Presented to PAC": "January, 2021",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 01/27/2021",
+        "ZIP Code": 95126,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1XdYPAInztj63RM3wxOXCnHh_yezh3bhL/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Dupont Station",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/dupont-station",
+        "Address": "244 McEvoy St., San Jose, CA 95126",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1_b_ZLlZS1TVoNGiamUTUPhEDai9Yt3u3/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "MNN Diridon LLC",
+        "Current Status With City": "Developer Designing"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.903644,
+          37.325548
+        ],
+        "type": "Point"
+      },
+      "id": "ce2c1787c2be9cbc4db7e0a6e472d740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Housing + Office + Retail",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "April 2020",
+        "City": "Sunnyvale",
+        "Current Status in Catalyze SV": "Reviewed 04/22/2020",
+        "ZIP Code": 94086,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/11MjYtLDf_XDZ7vdTBosCej8s9eOdR6GY/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Cityline Sunnyvale",
+        "Project Website": "https://www.citylinesunnyvale.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/cityline-sunnyvale",
+        "Address": "200 W Washington Ave., Sunnyvale, CA 94086",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1YYls2wPll7CuD0BZ60ofSCjkDHaKyYeQ/view?usp=sharing",
+        "Phase": "Construction",
+        "Owner/Developer Name": "Sares Regis ",
+        "Current Status With City": "Approved by City Council 8/2020"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.031231,
+          37.375253
+        ],
+        "type": "Point"
+      },
+      "id": "d3b11dce88bfe2191718bf5cdbc85ce3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Housing + Office + Retail + Public Space",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/citywide-planning/urban-villages/urban-village-plans-under-development/berryessa-bart",
+        "place_name": "",
+        "Date Presented to PAC": "",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Endorsed by Planning Commission 05/12/2021",
+        "ZIP Code": 95113,
+        "Catalyze SV's Scorecard": "",
+        "Next Public Meeting": "06/08/2021",
+        "State": "CA",
+        "Project Name": "Berryessa Flea Market Site",
+        "Project Website": "https://marketparksanjose.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/project-berryessa-flea-market-site",
+        "Address": "1590 Berryessa Rd., San Jose, CA 95113",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1Mk2etFXg31dYy2-L0pcxO6UUMElRZUs9/view?usp=sharing",
+        "Phase": "In Review",
+        "Owner/Developer Name": "Borelli investment Company",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.877203,
+          37.368592
+        ],
+        "type": "Point"
+      },
+      "id": "d6ac5f5d0f20837c7c3fed4fec03aca5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Mixed-use Student Housing with Retail",
+        "Link to City Documents": "",
+        "Date Presented to PAC": "May 2020",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 5/28/20",
+        "ZIP Code": 9512,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/1LXzQHlQstKQJGyC0rSOiHsDDxsTPEkng/view?usp=sharing",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "Spartan Heights",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/spartan-heights",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/spartan-heights",
+        "Address": "100 N 4th St., San Jose, CA 95112",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1dUVj-8gDjmGXL4mMbJvSwZRzoQ7h-Ri8/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Brent Lee",
+        "Current Status With City": "In Review"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.888495,
+          37.339523
+        ],
+        "type": "Point"
+      },
+      "id": "e07ed45dd04493c93c06c7e5b9364424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing + Retail + Plaza",
+        "Link to City Documents": "https://sanjose.legistar.com/LegislationDetail.aspx?ID=3697874&GUID=A214C721-F5E2-46B9-91CA-EF0ACDB73003&Options=&Search=",
+        "Date Presented to PAC": "February 2018",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed February 2018",
+        "ZIP Code": "95126",
+        "Catalyze SV's Scorecard": "N/A",
+        "Next Public Meeting": "N/A",
+        "State": "CA",
+        "Project Name": "Hanover Diridon",
+        "Project Website": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/hanover-diridon",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/hanover-diridon",
+        "Address": "715 West Julian St., San Jose, CA 95126",
+        "Catalyze SV's Letter": "https://drive.google.com/open?id=1lG1EwvIlxs1EWMq7lLKtDhgG3pQ_6U7x",
+        "Phase": "Completed",
+        "Owner/Developer Name": "The Hanover Company",
+        "Current Status With City": "Completed"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.90657,
+          37.333956
+        ],
+        "type": "Point"
+      },
+      "id": "e0cb0ddc0e3548cccea5dd42c855e7f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing + Commercial",
+        "Link to City Documents": "https://sjpermits.org/permits/general/generalfolder.asp?folderrsn=1811823",
+        "Date Presented to PAC": "October, 2019",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "Reviewed 10/23/19",
+        "ZIP Code": "95126",
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/16gJHi2gi9lyB2ix7X2U_5ahizMXaj-sJ/view?usp=sharing",
+        "Next Public Meeting": "TBD",
+        "State": "CA",
+        "Project Name": "1530 West San Carlos Street",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/1530-west-san-carlos-street",
+        "Address": "1530 W. San Carlos St., San Jose, CA 95126",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/15XD-1SXqj1G7ENKEoORICC4iuMkFqGFc/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Urban Villas",
+        "Current Status With City": "Application submitted 4/29/19"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.918584,
+          37.323079
+        ],
+        "type": "Point"
+      },
+      "id": "e3f80303841519cccad84195d2eea97a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Affordable Senior Housing + Large family housing + for-sale townhomes",
+        "Link to City Documents": "https://www.scchousingauthority.org/section-8/for-participants/for-new-applicants/properties-list/675-east-santa-clara/",
+        "place_name": "675 East Santa Clara St.",
+        "Date Presented to PAC": "October 2023",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95112,
+        "Catalyze SV's Scorecard": "https://drive.google.com/file/d/14tVtHmERLyybJT9-7Sm1LeMHS1SX5ay-/view?usp=drive_link",
+        "Next Public Meeting": "",
+        "State": "CA",
+        "Project Name": "675 East Santa Clara Street",
+        "Project Website": "https://eschousingsanjose.com/",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/675-east-santa-clara-street",
+        "Address": "675 E Santa Clara St, San Jose, CA 95112",
+        "accuracy": "",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1YQlx6T3CGcxeOL0Bm_kgaFmlBpE2sFjE/view?usp=drive_link",
+        "Phase": "In Design",
+        "Owner/Developer Name": "EdenCoreESC, LLC ",
+        "Current Status With City": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -121.876299,
+          37.344661
+        ],
+        "type": "Point"
+      },
+      "id": "e78b3b4b94f5e377aa6841ce320ec0e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Mixed use + Mixed Income",
+        "place_name": "610 East Santa Clara",
+        "Date Presented to PAC": "February 2023",
+        "City": "San Jose ",
+        "Current Status in Catalyze SV": "In Design ",
+        "ZIP Code": 95112,
+        "Project Name": "610 East Santa Clara",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/610-east-santa-clara",
+        "Address": "610 East Santa Clara Street, San Jose, CA, 95112",
+        "accuracy": "parcel",
+        "Phase": "In Design",
+        "Owner/Developer Name": "HS Santa Clara",
+        "Current Status With City": "In Design"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.877232,
+          37.342132
+        ],
+        "type": "Point"
+      },
+      "id": "ee81b3eec9ed9ec30bd5a93034207434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Housing",
+        "Link to City Documents": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/negative-declaration-initial-studies/259-meridian-ave-residential-mixed-use-development",
+        "Date Presented to PAC": "January, 2019",
+        "City": "San Jose",
+        "Current Status in Catalyze SV": "3nd Review on 2/26/20",
+        "ZIP Code": "95126",
+        "Catalyze SV's Scorecard": "https://drive.google.com/open?id=1zhrsOovrtuAuYZ5qyqvWbeb5rrCsRI5h",
+        "Next Public Meeting": "TBD",
+        "State": "CA",
+        "Project Name": "259 Meridian Ave",
+        "Project Website": "",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/259-meridian-ave",
+        "Address": "259 Meridian Ave., San Jose, CA 95126",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/1vUAzzDuRv7Y07NO7uBlh0UQHyyvNGiiK/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Strangis Properties",
+        "Current Status With City": "Approved by City Council 6/23/2020"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.914,
+          37.32449
+        ],
+        "type": "Point"
+      },
+      "id": "f6b9716ad1e981a7617f28df635f2245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type of Project/ Overview": "Market-rate Senior Housing + Retail",
+        "Link to City Documents": "https://www.santaclaraca.gov/Home/Components/BusinessDirectory/BusinessDirectory/262/2495",
+        "Date Presented to PAC": "N/A",
+        "City": "Santa Clara",
+        "Current Status in Catalyze SV": "Reviewed September 2017 ",
+        "ZIP Code": "95050",
+        "Catalyze SV's Scorecard": "N/A",
+        "Next Public Meeting": "N/A",
+        "State": "CA",
+        "Project Name": "2232 El Camino Real",
+        "Project Website": "https://www.santaclaraca.gov/home/showdocument?id=63146",
+        "Website Page": "https://www.catalyzesiliconvalley.org/pac-dynamic-projects/2232-el-camino-real",
+        "Address": "2232 El Camino Real, Santa Clara, CA 95050",
+        "Catalyze SV's Letter": "https://drive.google.com/file/d/0B23pe2KCKwVORlF6R01hOTFrdHpjMTdJY0JkS2wtbzJrajdz/view?usp=sharing",
+        "Phase": "Approved",
+        "Owner/Developer Name": "Summerhill / Alliance Residential",
+        "Current Status With City": "2-year time extension of approved rezoning approved by City Council 4/9/19"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.96274,
+          37.351893
+        ],
+        "type": "Point"
+      },
+      "id": "ff4bc8f9467ba2bfceefde7690ae8154"
+    }
+  ],
+  "type": "FeatureCollection"
+}
