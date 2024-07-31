@@ -18,7 +18,7 @@
         "Address": "329 Page St., San Jose, CA 95126",
         "Catalyze SV's Letter": "N/A",
         "Phase": "Completed",
-        "Owner/Developer Name": "Charities Housing",
+        "Owner_Developer": "Charities Housing",
         "Current Status With City": "Completed"
       },
       "geometry": {
@@ -49,7 +49,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1B6yjlrPj5b90LiYrF2jAyqaCU7i_GUnW/view?usp=share_link",
         "Phase": "In Design",
-        "Owner/Developer Name": "Caltrain",
+        "Owner_Developer": "Caltrain",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -81,7 +81,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "",
         "Phase": "In Design",
-        "Owner/Developer Name": "Kylli ",
+        "Owner_Developer": "Kylli ",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -111,7 +111,7 @@
         "Address": "1834 Worthington Cir., Santa Clara, CA 95050",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1XO7ar2ILc-5BO3_1m11VGz7tuKS0iQpE/view?usp=sharing",
         "Phase": "Construction",
-        "Owner/Developer Name": "The Core Companies",
+        "Owner_Developer": "The Core Companies",
         "Current Status With City": "Approved by City Council 1/2019"
       },
       "geometry": {
@@ -141,7 +141,7 @@
         "Address": "971 Meridian Ave., San Jose, CA 95126",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=1lVGgy_azndiPUePy7VSF-Z7JUNMS6PIe",
         "Phase": "Approved",
-        "Owner/Developer Name": "ROEM",
+        "Owner_Developer": "ROEM",
         "Current Status With City": "Application Under Review"
       },
       "geometry": {
@@ -171,7 +171,7 @@
         "Address": "1550 El Paseo de Saratoga, San Jose, CA 95130",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1MlmL8tOZsdyF0us-2j5R4aBvCqZ5ZBXK/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Sand Hill Property Company",
+        "Owner_Developer": "Sand Hill Property Company",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -203,7 +203,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1g_OYv_wHOsk43LV_h99wQ53lPKcqwLj5/view",
         "Phase": "Approved",
-        "Owner/Developer Name": "Kapital Partners",
+        "Owner_Developer": "Kapital Partners",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -235,7 +235,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "",
         "Phase": "In Design",
-        "Owner/Developer Name": "Maracor Development ",
+        "Owner_Developer": "Maracor Development ",
         "Current Status With City": ""
       },
       "geometry": {
@@ -267,7 +267,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1QIGpam6AVkNEQJdaxy5uHaArMKKS3Fwz/view?usp=sharing",
         "Phase": "In Design",
-        "Owner/Developer Name": "Resources for Community Development",
+        "Owner_Developer": "Resources for Community Development",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -297,7 +297,7 @@
         "Address": "80 Saratoga Avenue, Santa Clara, CA 95051",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1GaV0BR43oN1Wo6bS1PiAoQGMkMRYFlvo/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Maracor Development ",
+        "Owner_Developer": "Maracor Development ",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -327,7 +327,7 @@
         "Address": "253 Race St., San Jose, CA 95126",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=11ZVCB6jXnBR1Yvk-jo1cf5kCGDEOkBVs",
         "Phase": "Construction",
-        "Owner/Developer Name": "The Core Companies / Santa Clara County Housing Authority",
+        "Owner_Developer": "The Core Companies / Santa Clara County Housing Authority",
         "Current Status With City": "Approved at Planning Directors Hearing, 8/19/2020"
       },
       "geometry": {
@@ -358,7 +358,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1ARL3WvIPK0pm2dOJNYOdMuPmxo3gn7AJ/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Resources for Community Development",
+        "Owner_Developer": "Resources for Community Development",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -388,7 +388,7 @@
         "Address": "575 Benton St., Santa Clara, CA 95050",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/16uBul5DMkzpPwyQGyncHIbBFEPDHjb_u/view",
         "Phase": "Completed",
-        "Owner/Developer Name": "Prometheus",
+        "Owner_Developer": "Prometheus",
         "Current Status With City": "Under Construction"
       },
       "geometry": {
@@ -418,7 +418,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1XEd8nFr4hdqjOxKy0g6Mj5kuY1Dbebu9/view?usp=sharing",
         "Phase": "In Design",
-        "Owner/Developer Name": "Swenson Builders",
+        "Owner_Developer": "Swenson Builders",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -448,7 +448,7 @@
         "Address": "4300 Stevens Creek Blvd., San Jose, CA 95129",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1oby36UJEzvFvyIkExWXMQOt7cU8GaIFg/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Fortbay",
+        "Owner_Developer": "Fortbay",
         "Current Status With City": "Approved by City Council"
       },
       "geometry": {
@@ -480,7 +480,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "",
         "Phase": "In Design",
-        "Owner/Developer Name": "MV3 LLC",
+        "Owner_Developer": "MV3 LLC",
         "Current Status With City": "`"
       },
       "geometry": {
@@ -512,7 +512,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/12oZhu6my2VM2NMJr7_aJIx1jECFZ-CF4/view?usp=sharing",
         "Phase": "In Review",
-        "Owner/Developer Name": "Santa Clara Housing Authority",
+        "Owner_Developer": "Santa Clara Housing Authority",
         "Current Status With City": "Developer Designing"
       },
       "geometry": {
@@ -542,7 +542,7 @@
         "Address": "699 West San Carlos St., San Jose, CA  95126",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=1eT1wwjRBEULHj_7Axt5tkHtTEtE8lWtu",
         "Phase": "Approved",
-        "Owner/Developer Name": "First Community Housing",
+        "Owner_Developer": "First Community Housing",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -572,7 +572,7 @@
         "Address": "1330 South Bascom Ave., San Jose, CA 95128",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=1vebfk-iQon18M5RYkhNkL9dZGgBlL3tM",
         "Phase": "Construction",
-        "Owner/Developer Name": "Bay West Development",
+        "Owner_Developer": "Bay West Development",
         "Current Status With City": "Approved by City Council"
       },
       "geometry": {
@@ -604,7 +604,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1d5gyYq8f68qkwo8PigmMSRWe8UuPD9wP/view?usp=sharing",
         "Phase": "Construction",
-        "Owner/Developer Name": "Frist Community Housing",
+        "Owner_Developer": "Frist Community Housing",
         "Current Status With City": "Construction"
       },
       "geometry": {
@@ -636,7 +636,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/103P_k66RpCa2OvqaVTtkJFKOszjaGhe1/view?usp=drive_link",
         "Phase": "In Design",
-        "Owner/Developer Name": "Yi First Seed LLC",
+        "Owner_Developer": "Yi First Seed LLC",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -665,7 +665,7 @@
         "Address": "1620 Berryessa Road, San Jose, CA",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1uiIAAl8zjlXeKiQ3sDWEqmyJMifyzLSp/view?usp=share_link",
         "Phase": "In Design",
-        "Owner/Developer Name": "Affirmed Housing ",
+        "Owner_Developer": "Affirmed Housing ",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -697,7 +697,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/14oQfjZwLnfjFQ7q9dpN9cQwnwOwVoaTG/view?usp=drive_link",
         "Phase": "In Design",
-        "Owner/Developer Name": "GPR Ventures",
+        "Owner_Developer": "GPR Ventures",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -727,7 +727,7 @@
         "Address": "397 Blossom Hill Rd., San Jose, CA 95123",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=1YCPa4stm4vwg4j2XNiFGtbjjPhxSyss_",
         "Phase": "Construction",
-        "Owner/Developer Name": "Charities Housing",
+        "Owner_Developer": "Charities Housing",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -757,7 +757,7 @@
         "Address": "1301 W San Carlos St., San Jose, CA 95126",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=15mjo4TVlacLIvU8AdV3pytMxUhiQmeeN",
         "Phase": "Withdrawn",
-        "Owner/Developer Name": "The Core Companies",
+        "Owner_Developer": "The Core Companies",
         "Current Status With City": "Environmental Review"
       },
       "geometry": {
@@ -789,7 +789,7 @@
         "accuracy": "Strangis Properties",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1Nfkb4cAzfLLgB3hoONogY0sTs4msmq5u/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Greystar",
+        "Owner_Developer": "Greystar",
         "Current Status With City": ""
       },
       "geometry": {
@@ -821,7 +821,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1rOcTsFk0bK12iqCYjADK17KAk0qyRcWR/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Santa Clara County / Housing Authority",
+        "Owner_Developer": "Santa Clara County / Housing Authority",
         "Current Status With City": "Master Plan Approved"
       },
       "geometry": {
@@ -853,7 +853,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1HIzzCTyNCD1M5gpw8t7v7DSHVfEziivb/view?usp=drive_link",
         "Phase": "In Design",
-        "Owner/Developer Name": "MSASA Properties LLC",
+        "Owner_Developer": "MSASA Properties LLC",
         "Current Status With City": "Environmental Review"
       },
       "geometry": {
@@ -885,7 +885,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1AGMY8XQO7CjY2Kzt1tie0wFMwt78c1cw/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Weingarten Realty Investors",
+        "Owner_Developer": "Weingarten Realty Investors",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -917,7 +917,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "",
         "Phase": "Approved",
-        "Owner/Developer Name": "Roygbiv Real Estate Development LLC",
+        "Owner_Developer": "Roygbiv Real Estate Development LLC",
         "Current Status With City": ""
       },
       "geometry": {
@@ -947,7 +947,7 @@
         "Address": "447 N 1st St., San Jose, CA 95112",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=1lSyDH21uzT0vw5APc_Sj6zRKyHC-Jf3x",
         "Phase": "Completed",
-        "Owner/Developer Name": "The Kelsey",
+        "Owner_Developer": "The Kelsey",
         "Current Status With City": "Approved by City Council"
       },
       "geometry": {
@@ -981,7 +981,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "",
         "Phase": "",
-        "Owner/Developer Name": "",
+        "Owner_Developer": "",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1011,7 +1011,7 @@
         "Address": "777 W San Carlos St., San Jose, CA 95126 ",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1zF2phwOqmTn88xzT_IuilpzAApeF6q1x/view?usp=sharing",
         "Phase": "Construction",
-        "Owner/Developer Name": "Danco Communities",
+        "Owner_Developer": "Danco Communities",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -1041,7 +1041,7 @@
         "Address": "East of Diridon Station, San Jose, CA 95110",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1-aAN5wksrrafqL8d5Z6mW8s28iqr8fpb/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Google",
+        "Owner_Developer": "Google",
         "Current Status With City": "Endorsed by Planning Commission"
       },
       "geometry": {
@@ -1071,7 +1071,7 @@
         "Address": "1710 Moorpark Ave., San Jose, CA 95128",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1HOMQ7oI5QzagO_Nn-5JjBUTMLNSsD1gW/view",
         "Phase": "Completed",
-        "Owner/Developer Name": "MidPen Housing (Immanuel Lutheran Church)",
+        "Owner_Developer": "MidPen Housing (Immanuel Lutheran Church)",
         "Current Status With City": "Approved through SB 35 Streamlining"
       },
       "geometry": {
@@ -1103,7 +1103,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1SKDu0_svfymRQdAyXOHbKP3nePMeyoDq/view?usp=drive_link",
         "Phase": "In Design",
-        "Owner/Developer Name": "Abode Communities",
+        "Owner_Developer": "Abode Communities",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1135,7 +1135,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "https://drive.google.com/drive/folders/1-DVehsXt2cbB4A_fbPzo7CrXNPPUpLA8",
         "Phase": "In Design",
-        "Owner/Developer Name": "Affirmed Housing ",
+        "Owner_Developer": "Affirmed Housing ",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1166,7 +1166,7 @@
         "accuracy": "Hanover Co",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/19Sq_i3Pwq2Kv6EB2xXU7suaQi8dFbsBV/view?usp=sharing",
         "Phase": "In Design",
-        "Owner/Developer Name": "Hanover Co",
+        "Owner_Developer": "Hanover Co",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1195,7 +1195,7 @@
         "Address": "1601 Civic Center Drive, Santa Clara, CA 95050",
         "accuracy": "https://drive.google.com/file/d/1iXCizLwbLM9ep0It_jKYLEtGyyMENTmU/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Charities Housing",
+        "Owner_Developer": "Charities Housing",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -1227,7 +1227,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1Rn9vwZZomEgSgFUoP__Ee0Rw1Nwh02sF/view?usp=sharing",
         "Phase": "Completed",
-        "Owner/Developer Name": "Affirmed Housing",
+        "Owner_Developer": "Affirmed Housing",
         "Current Status With City": "Developer is seeking streamlined ministerial approval through AB 2162"
       },
       "geometry": {
@@ -1259,7 +1259,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "",
         "Phase": "Approved",
-        "Owner/Developer Name": "Resources for Community Development",
+        "Owner_Developer": "Resources for Community Development",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -1291,7 +1291,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "",
         "Phase": "Approved",
-        "Owner/Developer Name": "Roygbiv Real Estate Development LLC",
+        "Owner_Developer": "Roygbiv Real Estate Development LLC",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1322,7 +1322,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1WPoWgt_PMZheDEcl5Fs2aO8vR44l8ZZj/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Urban Catalyst",
+        "Owner_Developer": "Urban Catalyst",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1352,7 +1352,7 @@
         "Address": "2070 Alum Rock Ave., San Jose, CA 95116",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=1Y4rvhlXRwjUYdWp1K2ssCIkN6LMkQu6o",
         "Phase": "Withdrawn",
-        "Owner/Developer Name": "RCPM Consultants",
+        "Owner_Developer": "RCPM Consultants",
         "Current Status With City": "Withdrawn"
       },
       "geometry": {
@@ -1384,7 +1384,7 @@
         "accuracy": "Parcel",
         "Catalyze SV's Letter": "",
         "Phase": "In Design",
-        "Owner/Developer Name": "Affirmed Housing",
+        "Owner_Developer": "Affirmed Housing",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1413,7 +1413,7 @@
         "Address": "70 North 27th Street, San Jose, CA 95116",
         "accuracy": "parcel",
         "Phase": "In Design",
-        "Owner/Developer Name": "HC Investment Associates"
+        "Owner_Developer": "HC Investment Associates"
       },
       "geometry": {
         "coordinates": [
@@ -1444,7 +1444,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "",
         "Phase": "In Design",
-        "Owner/Developer Name": "Satellite Affordable Housing Associates (SAHA)",
+        "Owner_Developer": "Satellite Affordable Housing Associates (SAHA)",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -1476,7 +1476,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1xP1uu-z2Az6imhIBrDzAnWZAJackt6uW/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Green Republic",
+        "Owner_Developer": "Green Republic",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -1508,7 +1508,7 @@
         "accuracy": "Parcel",
         "Catalyze SV's Letter": "",
         "Phase": "Approved",
-        "Owner/Developer Name": "Santa Clara County Office of Supportive Housing/ Allied Housing",
+        "Owner_Developer": "Santa Clara County Office of Supportive Housing/ Allied Housing",
         "Current Status With City": "Approved"
       },
       "geometry": {
@@ -1540,7 +1540,7 @@
         "maxzoom": 22,
         "Catalyze SV's Letter": "N/A",
         "Phase": "In Design",
-        "Owner/Developer Name": "VCI Companies",
+        "Owner_Developer": "VCI Companies",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -1571,7 +1571,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1ARL3WvIPK0pm2dOJNYOdMuPmxo3gn7AJ/view?usp=sharing",
         "Phase": "In Design",
-        "Owner/Developer Name": "MidPen Housing",
+        "Owner_Developer": "MidPen Housing",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -1603,7 +1603,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "",
         "Phase": "In Design",
-        "Owner/Developer Name": "MidPen Housing",
+        "Owner_Developer": "MidPen Housing",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -1635,7 +1635,7 @@
         "accuracy": "parcel",
         "Catalyze SV's Letter": "",
         "Phase": "In Design",
-        "Owner/Developer Name": "PATH Ventures",
+        "Owner_Developer": "PATH Ventures",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1667,7 +1667,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1_b_ZLlZS1TVoNGiamUTUPhEDai9Yt3u3/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "MNN Diridon LLC",
+        "Owner_Developer": "MNN Diridon LLC",
         "Current Status With City": "Developer Designing"
       },
       "geometry": {
@@ -1697,7 +1697,7 @@
         "Address": "200 W Washington Ave., Sunnyvale, CA 94086",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1YYls2wPll7CuD0BZ60ofSCjkDHaKyYeQ/view?usp=sharing",
         "Phase": "Construction",
-        "Owner/Developer Name": "Sares Regis ",
+        "Owner_Developer": "Sares Regis ",
         "Current Status With City": "Approved by City Council 8/2020"
       },
       "geometry": {
@@ -1729,7 +1729,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1Mk2etFXg31dYy2-L0pcxO6UUMElRZUs9/view?usp=sharing",
         "Phase": "In Review",
-        "Owner/Developer Name": "Borelli investment Company",
+        "Owner_Developer": "Borelli investment Company",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1759,7 +1759,7 @@
         "Address": "100 N 4th St., San Jose, CA 95112",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1dUVj-8gDjmGXL4mMbJvSwZRzoQ7h-Ri8/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Brent Lee",
+        "Owner_Developer": "Brent Lee",
         "Current Status With City": "In Review"
       },
       "geometry": {
@@ -1789,7 +1789,7 @@
         "Address": "715 West Julian St., San Jose, CA 95126",
         "Catalyze SV's Letter": "https://drive.google.com/open?id=1lG1EwvIlxs1EWMq7lLKtDhgG3pQ_6U7x",
         "Phase": "Completed",
-        "Owner/Developer Name": "The Hanover Company",
+        "Owner_Developer": "The Hanover Company",
         "Current Status With City": "Completed"
       },
       "geometry": {
@@ -1819,7 +1819,7 @@
         "Address": "1530 W. San Carlos St., San Jose, CA 95126",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/15XD-1SXqj1G7ENKEoORICC4iuMkFqGFc/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Urban Villas",
+        "Owner_Developer": "Urban Villas",
         "Current Status With City": "Application submitted 4/29/19"
       },
       "geometry": {
@@ -1851,7 +1851,7 @@
         "accuracy": "",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1YQlx6T3CGcxeOL0Bm_kgaFmlBpE2sFjE/view?usp=drive_link",
         "Phase": "In Design",
-        "Owner/Developer Name": "EdenCoreESC, LLC ",
+        "Owner_Developer": "EdenCoreESC, LLC ",
         "Current Status With City": ""
       },
       "geometry": {
@@ -1878,7 +1878,7 @@
         "Address": "610 East Santa Clara Street, San Jose, CA, 95112",
         "accuracy": "parcel",
         "Phase": "In Design",
-        "Owner/Developer Name": "HS Santa Clara",
+        "Owner_Developer": "HS Santa Clara",
         "Current Status With City": "In Design"
       },
       "geometry": {
@@ -1908,7 +1908,7 @@
         "Address": "259 Meridian Ave., San Jose, CA 95126",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/1vUAzzDuRv7Y07NO7uBlh0UQHyyvNGiiK/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Strangis Properties",
+        "Owner_Developer": "Strangis Properties",
         "Current Status With City": "Approved by City Council 6/23/2020"
       },
       "geometry": {
@@ -1938,7 +1938,7 @@
         "Address": "2232 El Camino Real, Santa Clara, CA 95050",
         "Catalyze SV's Letter": "https://drive.google.com/file/d/0B23pe2KCKwVORlF6R01hOTFrdHpjMTdJY0JkS2wtbzJrajdz/view?usp=sharing",
         "Phase": "Approved",
-        "Owner/Developer Name": "Summerhill / Alliance Residential",
+        "Owner_Developer": "Summerhill / Alliance Residential",
         "Current Status With City": "2-year time extension of approved rezoning approved by City Council 4/9/19"
       },
       "geometry": {
