@@ -12,17 +12,6 @@ var mylayer = L.geoJSON().addTo(mymap);
     }
 }
 
-mylayer.on('mouseover', function (e) {
-  this.openPopup();
-});
-mylayer.on('mouseout', function (e) {
-  this.closePopup();
-});
-mylayer.on('click', function (e) {
-  this.openPopup();
-  //disable mouseout behavior here?
-});
-
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
