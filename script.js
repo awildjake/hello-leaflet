@@ -2,10 +2,26 @@ var mymap = L.map('mymap').setView([37.322729, -121.915732], 13);
 var mylayer = L.geoJSON().addTo(mymap);
 
  function onEachFeature(feature, layer) {
-    if (feature.properties && feature.properties.Address) {
-        layer.bindPopup(feature.properties.Address);
+    if (feature.properties && feature.properties.Project_Name) {
+        layer.bindPopup("<p><b>" + feature.properties.Project_Name + 
+        "</b></p><p><b>Developer:</b> " + feature.properties.Owner_Developer + "</p>", {closeButton: false});
+        layer.on('mouseover', function() { layer.openPopup(); });
+        layer.on('mouseout', function() { layer.closePopup(); });
+        layer.on('click', function() { window.open(feature.properties.Website_Page);
+        }); 
     }
 }
+
+mylayer.on('mouseover', function (e) {
+  this.openPopup();
+});
+mylayer.on('mouseout', function (e) {
+  this.closePopup();
+});
+mylayer.on('click', function (e) {
+  this.openPopup();
+  //disable mouseout behavior here?
+});
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
