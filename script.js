@@ -16,13 +16,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(mymap);
-
-fetch('https://raw.githubusercontent.com/awildjake/hello-leaflet/main/assets/projects.geojson')
-	.then(function (response) {
-  	return response.json();
-  })
-  .then(function (data) {
-  	L.geoJSON(data, {
-    	onEachFeature: onEachFeature
-    }).addTo(mylayer);
-  });
+  
+ const geojson = new L.GeoJSON.AJAX('https://raw.githubusercontent.com/awildjake/hello-leaflet/main/assets/projects.geojson',{
+    onEachFeature:onEachFeature,
+  }).addTo(mymap);
